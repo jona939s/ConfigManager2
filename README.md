@@ -1,3 +1,5 @@
+# Might not work with windows 11 right now, not sure
+
 # Install
 
 Start by placing the shortcut for the downloaded file somewhere easy to find. After that you can place the downloaded file somewhere else (if you would like to)
