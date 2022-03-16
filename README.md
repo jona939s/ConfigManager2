@@ -2,17 +2,8 @@
 
 # Install
 
-Start by placing the shortcut for the downloaded file somewhere easy to find. After that you can place the downloaded file somewhere else (if you would like to)
-
-![image](assets/images/guide1.png)
-
-After that you can add a path to the folder with all the .cfg files. This can be done in this file under IMPORTANT\savedPath\Saved_path.txt
-
-![image](assets/images/guide2.png)
-
-Or you can open the application and use the browse button to find it. This path will be saved in the same place. The application also documents how to use it
-
-![image](assets/images/guide3.png)
+First you need to install .Net Runtime from [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime "Microsoft .Net runtime downloads")
+![images](assets/images/guide4)
 
 # DEVS
 
