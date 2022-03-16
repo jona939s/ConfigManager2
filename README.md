@@ -1,5 +1,3 @@
-# Might not work with windows 11 right now, not sure
-
 # Install
 
 First you need to install .Net Runtime from [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime "Microsoft .Net runtime downloads")
